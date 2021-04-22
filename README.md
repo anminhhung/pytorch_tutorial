@@ -16,3 +16,5 @@ Objective of the repository is to learn and build ML/DL models using Pytorch.
 
 ## ML from scratch
 - Linear Regression: [LinearRegression.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/ML_from_scratch/LinearRegression/LinearRegression.ipynb)
+- k-nearest neighbors: [KNN.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/ML_from_scratch/KNN/KNN.ipynb)
+- Logistic Regression: [LogisticRegression.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/ML_from_scratch/LogisticRegression/LogisticRegression.ipynb)
