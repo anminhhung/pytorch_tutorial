@@ -27,3 +27,8 @@ Objective of the repository is to learn and build ML/DL models using Pytorch.
 
 ## Pytorch Lightning
 - LeNet: [pytorch_lightning/LeNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/pytorch_lightning/LeNet.ipynb)
+
+---
+## NLP
+### Word Embedding
+- Word2vec: [Word_embedding_word2vec.ipynb](https://colab.research.google.com/drive/1qRN6S8BPpCKzmsZTtEriB0DPIXDissFn?usp=sharing)
