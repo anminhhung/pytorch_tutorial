@@ -28,7 +28,7 @@ Objective of the repository is to learn and build ML/DL models using Pytorch.
 ## Pytorch Lightning
 - LeNet: [pytorch_lightning/LeNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/pytorch_lightning/LeNet.ipynb)
 - Multioutput CNN: [Age_Gender_pipeline_pytorch_lightning.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/pytorch_lightning/Age_Gender_pipeline_pytorch_lightning.ipynb)
-- 
+
 ---
 ## NLP
 ### Word Embedding
