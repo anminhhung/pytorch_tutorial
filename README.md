@@ -1,5 +1,5 @@
 # Learn Pytorch
-Objective of the repository is to learn and build ML/DL models using Pytorch.
+Objective of the repository is to learn and build ML/DL models from scratch using Pytorch.
 
 ## List of pytorch basic
 - Tensor basic: [Tensor_Pytorch.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/basic_pytorch/Tensor_Pytorch.ipynb)
@@ -31,5 +31,7 @@ Objective of the repository is to learn and build ML/DL models using Pytorch.
 
 ---
 ## NLP
+### Word Tokenization
+- Byte_Pair_Encoding
 ### Word Embedding
 - Word2vec: [Word_embedding_word2vec.ipynb](https://colab.research.google.com/drive/1qRN6S8BPpCKzmsZTtEriB0DPIXDissFn?usp=sharing)
