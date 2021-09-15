@@ -33,5 +33,6 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 ## NLP
 ### Word Tokenization
 - Byte_Pair_Encoding: [Byte_Pair_Encoding.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/NLP/word_tokenization/Byte_Pair_Encoding.ipynb)
+- Byte_Pair_Encoding Dropout: [BPE_Dropout.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/NLP/word_tokenization/BPE_Dropout.ipynb)
 ### Word Embedding
 - Word2vec: [Word_embedding_word2vec.ipynb](https://colab.research.google.com/drive/1qRN6S8BPpCKzmsZTtEriB0DPIXDissFn?usp=sharing)
