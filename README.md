@@ -16,6 +16,7 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 ## CNN
 - LeNet5: [LeNet_5.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/LeNet_5.ipynb)
 - AlexNet: [AlexNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/AlexNet.ipynb)
+- VGG: [VGG.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/VGG.ipynb)
 - Multioutput CNN: [Age_Gender_pipeline.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/Age_Gender_pipeline.ipynb)
 ---
 
