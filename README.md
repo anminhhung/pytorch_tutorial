@@ -21,13 +21,14 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 ---
 
 ## CNN
-
+<div align="center">
 | CNN   |      Code      |  Reference |
 |----------|:-------------:|------:|
 |  LeNet5  |  [LeNet_5.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/LeNet_5.ipynb)  |  [images](https://www.researchgate.net/figure/LeNet-architecture-implemented-in-paper-1_fig1_335066454)  |
 |  AlexNet  |  [AlexNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/AlexNet.ipynb)  |  [paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)  |
 |  InceptionResnet_v2  |  [InceptionResnet_v2.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/InceptionResnet_v2.ipynb)  |  [paper](https://arxiv.org/pdf/1602.07261.pdf)  |
 |Multioutput CNN | [Age_Gender_pipeline.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/Age_Gender_pipeline.ipynb) | |
+</div>
 
 ---
 
