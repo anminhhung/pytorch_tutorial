@@ -48,3 +48,8 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - Word2vec: [Word_embedding_word2vec.ipynb](https://colab.research.google.com/drive/1qRN6S8BPpCKzmsZTtEriB0DPIXDissFn?usp=sharing)
 ### Text Classification
 - LSTM: [LSTM.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/NLP/text_classification/LSTM.ipynb)
+---
+
+## Reference
+- 1. [https://github.com/lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
+- 2. [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
