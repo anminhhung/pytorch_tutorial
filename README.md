@@ -13,20 +13,28 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 
 ---
 
-## CNN
-- LeNet5: [LeNet_5.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/LeNet_5.ipynb)
-- AlexNet: [AlexNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/AlexNet.ipynb)
-- VGG: [VGG.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/VGG.ipynb)
-- InceptionResnet_v2: [InceptionResnet_v2.ipynb]()
-- Multioutput CNN: [Age_Gender_pipeline.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/Age_Gender_pipeline.ipynb)
----
-
 ## ML from scratch
 - Linear Regression: [LinearRegression.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/ML_from_scratch/LinearRegression/LinearRegression.ipynb)
 - k-nearest neighbors: [KNN.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/ML_from_scratch/KNN/KNN.ipynb)
 - Logistic Regression: [LogisticRegression.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/ML_from_scratch/LogisticRegression/LogisticRegression.ipynb)
 
 ---
+
+## CNN
+
+| CNN   |      Code      |  Reference |
+|----------|:-------------:|------:|
+| LeNet5 |  [LeNet_5.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/LeNet_5.ipynb) | [images](https://www.researchgate.net/figure/LeNet-architecture-implemented-in-paper-1_fig1_335066454) |
+| AlexNet |    [AlexNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/AlexNet.ipynb)  |   [paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
+| InceptionResnet_v2 | [InceptionResnet_v2.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/InceptionResnet_v2.ipynb) | [paper](https://arxiv.org/pdf/1602.07261.pdf) |
+|Multioutput CNN | [Age_Gender_pipeline.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/Age_Gender_pipeline.ipynb) | |
+
+---
+
+## Transformers 
+| CNN   |      Code      |  Reference |
+|----------|:-------------:|------:|
+|Vision Transformers| | [[paper]](https://arxiv.org/pdf/2010.11929.pdf) [[video]](https://www.youtube.com/watch?v=ovB0ddFtzzA)|
 
 ## Pytorch Lightning
 - LeNet: [pytorch_lightning/LeNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/pytorch_lightning/LeNet.ipynb)
