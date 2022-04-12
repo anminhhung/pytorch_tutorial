@@ -10,7 +10,7 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - Feedforward neural network: [feedforward_neural_network.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/basic_pytorch/feedforward_neural_network.ipynb)
 - Logistic regression: [Logistic_regression.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/basic_pytorch/Logistic_regression.ipynb)
 - Linear regression: [Linear_Regression.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/basic_pytorch/Linear_Regression.ipynb)
-
+- Writting custom dataset dataloader transform [imgaug](https://github.com/aleju/imgaug): [custom_dataset_dataloader_transform_imgaug.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/basic_pytorch/custom_dataset_dataloader_transform_imgaug.ipynb)
 ---
 
 ## ML from scratch
