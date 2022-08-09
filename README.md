@@ -28,7 +28,7 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 |  VGG  |  [VGG.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/VGG.ipynb)  |  [paper](https://arxiv.org/abs/1409.1556)  |
 |  InceptionResnet_v2  |  [InceptionResnet_v2.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/InceptionResnet_v2.ipynb)  |  [paper](https://arxiv.org/pdf/1602.07261.pdf)  |
 |Multioutput CNN | [Age_Gender_pipeline.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/Age_Gender_pipeline.ipynb) | |
-
+|ArcFace + fNet| [arcface.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/arcface.ipynb) | |
 ---
 
 ## Transformers 
