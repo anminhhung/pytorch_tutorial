@@ -51,6 +51,10 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - LSTM: [LSTM.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/NLP/text_classification/LSTM.ipynb)
 ---
 
+## Image retrieval
+- resnext50_32x4d_ArcFace: [resnext50_32x4d_ArcFace.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/resnext50_32x4d_ArcFace.ipynb)
+---
+
 ## Reference
 - 1. [https://github.com/lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
 - 2. [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
