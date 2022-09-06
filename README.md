@@ -41,6 +41,11 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - Multioutput CNN: [Age_Gender_pipeline_pytorch_lightning.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/pytorch_lightning/Age_Gender_pipeline_pytorch_lightning.ipynb)
 
 ---
+
+## Image retrieval
+- resnext50_32x4d_ArcFace: [resnext50_32x4d_ArcFace.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/resnext50_32x4d_ArcFace.ipynb)
+---
+
 ## NLP
 ### Word Tokenization
 - Byte_Pair_Encoding: [Byte_Pair_Encoding.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/NLP/word_tokenization/Byte_Pair_Encoding.ipynb)
@@ -49,10 +54,6 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - Word2vec: [Word_embedding_word2vec.ipynb](https://colab.research.google.com/drive/1qRN6S8BPpCKzmsZTtEriB0DPIXDissFn?usp=sharing)
 ### Text Classification
 - LSTM: [LSTM.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/NLP/text_classification/LSTM.ipynb)
----
-
-## Image retrieval
-- resnext50_32x4d_ArcFace: [resnext50_32x4d_ArcFace.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/resnext50_32x4d_ArcFace.ipynb)
 ---
 
 ## Reference
