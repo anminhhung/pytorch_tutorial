@@ -60,3 +60,4 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - 1. [https://github.com/lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
 - 2. [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 - 3. [Transformer tutorial](https://e2eml.school/transformers.html)
+- 4. [labml.ai](https://nn.labml.ai/index.html)
