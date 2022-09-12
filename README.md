@@ -43,7 +43,7 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 ---
 
 ## Image retrieval
-- resnext50_32x4d_ArcFace: [resnext50_32x4d_ArcFace.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/resnext50_32x4d_ArcFace.ipynb)
+- resnext50_32x4d_ArcFace: [Pipeline_Image_Retrieval.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/CNN/Pipeline_Image_Retrieval.ipynb)
 ---
 
 ## NLP
