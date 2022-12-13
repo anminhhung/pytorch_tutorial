@@ -62,3 +62,4 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 - 3. [Transformer tutorial](https://e2eml.school/transformers.html)
 - 4. [labml.ai](https://nn.labml.ai/index.html)
 - 5. [GNN tutorial](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
+- 6. [Yolo tutorial](https://wikidocs.net/book/8119)
