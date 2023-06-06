@@ -35,6 +35,7 @@ Objective of the repository is to learn and build ML/DL models from scratch usin
 | CNN   |      Code      |  Reference |
 |----------|:-------------:|------:|
 |  Vision Transformers  |  [ViT.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/Transformers/ViT.ipynb)  |  [[paper]](https://arxiv.org/pdf/2010.11929.pdf) [[video]](https://www.youtube.com/watch?v=ovB0ddFtzzA)  |
+|  Vision Transformers patch_4x2 |  [ViT.ipynb]([https://github.com/anminhhung/pytorch_tutorial/blob/master/Transformers/ViT.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/Transformers/ViT_patch_4x2.ipynb))  | ...  |
 
 ## Pytorch Lightning
 - LeNet: [pytorch_lightning/LeNet.ipynb](https://github.com/anminhhung/pytorch_tutorial/blob/master/pytorch_lightning/LeNet.ipynb)
